@@ -1,3 +1,5 @@
 info: 
     profile: dev
 authorname: 文哥
+encrypt: 
+    key: didispace

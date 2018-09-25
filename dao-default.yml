@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: mysqlconnect
+    driver-class-name: com.mysql.jdbc.Driver
+    username: '{cipher}abf838ac8fbc806af9ddb4765260f29a3dd603d55c2d33e37450c4072dbecf0c'
+    password: '{cipher}9dab51d4e3aafa1a16d299894e2c4af97271f4bfa1d3b5a2ab79fbb34e8d82a4'
+    url: jdbc:mysql://127.0.0.1:3306/coder?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
